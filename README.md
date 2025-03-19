@@ -13,7 +13,7 @@ This project implements backend features for Fibud Corp's expert matching servic
   - [Database Schema](#database-schema)
   - [API Endpoints](#api-endpoints)
   - [Error Handling](#error-handling)
-  - [Testing](#testing)
+  - [Testing (Personal Addition)](#testing)
 
 ## Setup Instructions
 
